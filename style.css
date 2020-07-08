@@ -96,6 +96,14 @@ span{
     border: none;
     box-shadow: 5px 5px 6px 5px lightgray;
 }
+.gallery{
+    background-color: #cfb573;
+    box-shadow: 3px 3px 5px 3px lightgray;
+    border-radius: 10px;
+}
+.image{
+    padding-bottom: 36px;
+}
 .img-size{
     width: 40%;
     margin-left: 200px;
